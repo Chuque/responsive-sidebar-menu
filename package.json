@@ -7,7 +7,7 @@
     "react-dom": "^15.6.1",
     "react-metismenu": "^1.4.0",
     "react-responsive-sidebar": "^0.1.16",
-    "react-scripts": "1.0.13",
+    "react-scripts": "5.0.1",
     "react-sidebar": "^3.0.2"
   },
   "scripts": {
